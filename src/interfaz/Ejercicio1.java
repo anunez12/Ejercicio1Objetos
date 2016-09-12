@@ -270,6 +270,8 @@ public class Ejercicio1 extends javax.swing.JFrame {
         
         
         
+        
+        
     }//GEN-LAST:event_cmdBorrarActionPerformed
 
     private void txtNumeradorUnoKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtNumeradorUnoKeyTyped
